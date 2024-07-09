@@ -21,7 +21,7 @@
 
 ### Hi there 👋
 - 🔭 I'm a Computer Engineer and I'm working on android mobile development.
-- 🌱 I’m currently learning android mobile with kotlin.
-- 💻I was worked as Mobile(ReactNative) developer at SciMatic and I was worked as an Intern Android Developer(Kotlin) at Arabam.com
+- 🌱 I’m currently learning Android, Kotlin.
+- 💻 I was worked as Mobile(ReactNative) developer at SciMatic and I was worked as an Intern Android Developer(Kotlin) at Arabam.com
 - 📫 How to reach me: oyildizz@icloud.com
 -->
