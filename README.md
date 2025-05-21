@@ -20,8 +20,7 @@
 </p>
 
 ### Hi there 👋
-- 🔭 I'm a Computer Engineer and I'm working on android mobile development.
-- 🌱 I’m currently learning Android, Kotlin.
+- 🔭 I'm a Computer Engineer and I'm working on mobile development.
 - 💻 I was worked as Mobile Developer(ReactNative) at SciMatic and I was worked as an Intern Android Developer(Kotlin) at Arabam.com
 - 📫 How to reach me: oyildizz@icloud.com
 -->
